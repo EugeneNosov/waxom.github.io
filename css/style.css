@@ -649,6 +649,8 @@ header nav li a.current {
     padding: 5% 0;
     text-align: center;
     background-image: url(../images/partners-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .part img{
     width: 170px;
